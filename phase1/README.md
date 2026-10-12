@@ -4,7 +4,8 @@
 
 | Файл | Что это |
 |---|---|
-| | отчёт c постановкой, оценками, обеими методиками с полными таблицами, анализом чувствительности, выводами |
+|[Отчет](https://docs.google.com/document/d/1TgVVidqxiTzC3sLj3U5dgZ49EFAVY3ueD5NtRt9aLrs/edit?usp=sharing) | отчёт c постановкой, оценками, обеими методиками с полными таблицами, анализом чувствительности, выводами |
+| [TOPSIS](https://docs.google.com/spreadsheets/d/1_ESFTGBtLKJ7VEYuXLDxMHFHBH3wDTn1h70_pnSGYLs/edit?usp=sharing) | анализ TOPSIS |
 
 ## Результат
 
