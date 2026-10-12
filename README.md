@@ -12,6 +12,8 @@
 | **Мишненкова Елизавета** | [@venlesN](https://github.com/venlesN) |
 
 
+Прогресс по выполнению проекта можно отслеживать здесь: [Task-tracker](https://en.yougile.com/board/wbv1unfg8rsp)
+
 ## Фазы
 
 | Фаза | Папка | Содержание |
